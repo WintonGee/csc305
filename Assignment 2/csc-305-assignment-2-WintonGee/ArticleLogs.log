@@ -1,0 +1,4 @@
+Nov 01, 2023 2:52:15 PM assignment.ArticleParser logInvalidArticle
+WARNING: Invalid Required Fields: Title Description Published At URL 
+Nov 01, 2023 2:52:15 PM assignment.ArticleParser logInvalidArticle
+WARNING: Invalid Required Fields: Title URL 
