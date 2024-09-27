@@ -1,0 +1,24 @@
+/** TODO List
+* General Guidelines
+* X return a list of articles with title, description, published date-time, url
+* X Supports parsing json (No matter the source)
+*
+* * Error Guidelines
+* X parser to report any parsing errors
+* X Skip the articles with errors
+* X java.util.logging.Logger, use "Warning" for any errors
+* X Maybe have a checker for isValid in article
+* X modify disable default log record handler and establish a new handler FileHandler w/ SimpleFormatter
+*
+* * Testing
+* - Test for valid inputs to verify that all articles are parsed.
+* - Test for inputs with missing fields.
+* - consider overriding the equals method (Not 100%)
+*
+* * Main
+* X input JSON files to your program are the input.json and bad.json (For this assignment)
+* X Errors should be logged to the Logger for your "main" class.
+*
+* * Documentation
+* X comment for each non-private method
+*/
