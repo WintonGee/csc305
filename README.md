@@ -1,1 +1,4 @@
-CSC305 Software Engineering Project repository. This project showcases the principles of object-oriented design, software architecture, and testing methodologies, with a strong focus on JUnit testing. The goal of this project is to build a robust and maintainable software system by applying key design patterns and thoroughly testing the components to ensure reliability and scalability.
+# CSC305
+OOP design principles and testing methodologies
+
+The goal of this project is to build a robust and maintainable software system by applying key design patterns and thoroughly testing the components to ensure reliability and scalability.
